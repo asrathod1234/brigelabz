@@ -1,0 +1,6 @@
+E:\Bridgelabz\all day\Day 5 Problem\Q.9 Alphabet is Vowel or Consonant\Q.9 Alphabet is Vowel or Consonant\bin\Debug\Q.9 Alphabet is Vowel or Consonant.exe.config
+E:\Bridgelabz\all day\Day 5 Problem\Q.9 Alphabet is Vowel or Consonant\Q.9 Alphabet is Vowel or Consonant\bin\Debug\Q.9 Alphabet is Vowel or Consonant.exe
+E:\Bridgelabz\all day\Day 5 Problem\Q.9 Alphabet is Vowel or Consonant\Q.9 Alphabet is Vowel or Consonant\bin\Debug\Q.9 Alphabet is Vowel or Consonant.pdb
+E:\Bridgelabz\all day\Day 5 Problem\Q.9 Alphabet is Vowel or Consonant\Q.9 Alphabet is Vowel or Consonant\obj\Debug\Q.9 Alphabet is Vowel or Consonant.csproj.CoreCompileInputs.cache
+E:\Bridgelabz\all day\Day 5 Problem\Q.9 Alphabet is Vowel or Consonant\Q.9 Alphabet is Vowel or Consonant\obj\Debug\Q.9 Alphabet is Vowel or Consonant.exe
+E:\Bridgelabz\all day\Day 5 Problem\Q.9 Alphabet is Vowel or Consonant\Q.9 Alphabet is Vowel or Consonant\obj\Debug\Q.9 Alphabet is Vowel or Consonant.pdb

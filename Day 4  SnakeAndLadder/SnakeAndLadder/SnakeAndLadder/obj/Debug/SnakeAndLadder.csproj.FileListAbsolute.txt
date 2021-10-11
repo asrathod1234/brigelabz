@@ -1,0 +1,7 @@
+E:\Bridgelabz\all day\Day 4  SnakeAndLadder\SnakeAndLadder\SnakeAndLadder\bin\Debug\SnakeAndLadder.exe.config
+E:\Bridgelabz\all day\Day 4  SnakeAndLadder\SnakeAndLadder\SnakeAndLadder\bin\Debug\SnakeAndLadder.exe
+E:\Bridgelabz\all day\Day 4  SnakeAndLadder\SnakeAndLadder\SnakeAndLadder\bin\Debug\SnakeAndLadder.pdb
+E:\Bridgelabz\all day\Day 4  SnakeAndLadder\SnakeAndLadder\SnakeAndLadder\obj\Debug\SnakeAndLadder.csproj.AssemblyReference.cache
+E:\Bridgelabz\all day\Day 4  SnakeAndLadder\SnakeAndLadder\SnakeAndLadder\obj\Debug\SnakeAndLadder.csproj.CoreCompileInputs.cache
+E:\Bridgelabz\all day\Day 4  SnakeAndLadder\SnakeAndLadder\SnakeAndLadder\obj\Debug\SnakeAndLadder.exe
+E:\Bridgelabz\all day\Day 4  SnakeAndLadder\SnakeAndLadder\SnakeAndLadder\obj\Debug\SnakeAndLadder.pdb

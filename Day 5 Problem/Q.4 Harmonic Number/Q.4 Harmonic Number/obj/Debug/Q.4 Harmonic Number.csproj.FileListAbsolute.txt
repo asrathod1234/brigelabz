@@ -1,0 +1,7 @@
+E:\Bridgelabz\all day\Day 5 Problem\Q.4 Harmonic Number\Q.4 Harmonic Number\bin\Debug\Q.4 Harmonic Number.exe.config
+E:\Bridgelabz\all day\Day 5 Problem\Q.4 Harmonic Number\Q.4 Harmonic Number\bin\Debug\Q.4 Harmonic Number.exe
+E:\Bridgelabz\all day\Day 5 Problem\Q.4 Harmonic Number\Q.4 Harmonic Number\bin\Debug\Q.4 Harmonic Number.pdb
+E:\Bridgelabz\all day\Day 5 Problem\Q.4 Harmonic Number\Q.4 Harmonic Number\obj\Debug\Q.4 Harmonic Number.csproj.CoreCompileInputs.cache
+E:\Bridgelabz\all day\Day 5 Problem\Q.4 Harmonic Number\Q.4 Harmonic Number\obj\Debug\Q.4 Harmonic Number.exe
+E:\Bridgelabz\all day\Day 5 Problem\Q.4 Harmonic Number\Q.4 Harmonic Number\obj\Debug\Q.4 Harmonic Number.pdb
+E:\Bridgelabz\all day\Day 5 Problem\Q.4 Harmonic Number\Q.4 Harmonic Number\obj\Debug\Q.4 Harmonic Number.csproj.AssemblyReference.cache

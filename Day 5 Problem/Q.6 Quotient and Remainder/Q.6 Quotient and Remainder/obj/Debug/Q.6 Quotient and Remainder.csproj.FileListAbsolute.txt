@@ -1,0 +1,7 @@
+E:\Bridgelabz\all day\Day 5 Problem\Q.6 Quotient and Remainder\Q.6 Quotient and Remainder\bin\Debug\Q.6 Quotient and Remainder.exe.config
+E:\Bridgelabz\all day\Day 5 Problem\Q.6 Quotient and Remainder\Q.6 Quotient and Remainder\bin\Debug\Q.6 Quotient and Remainder.exe
+E:\Bridgelabz\all day\Day 5 Problem\Q.6 Quotient and Remainder\Q.6 Quotient and Remainder\bin\Debug\Q.6 Quotient and Remainder.pdb
+E:\Bridgelabz\all day\Day 5 Problem\Q.6 Quotient and Remainder\Q.6 Quotient and Remainder\obj\Debug\Q.6 Quotient and Remainder.csproj.AssemblyReference.cache
+E:\Bridgelabz\all day\Day 5 Problem\Q.6 Quotient and Remainder\Q.6 Quotient and Remainder\obj\Debug\Q.6 Quotient and Remainder.csproj.CoreCompileInputs.cache
+E:\Bridgelabz\all day\Day 5 Problem\Q.6 Quotient and Remainder\Q.6 Quotient and Remainder\obj\Debug\Q.6 Quotient and Remainder.exe
+E:\Bridgelabz\all day\Day 5 Problem\Q.6 Quotient and Remainder\Q.6 Quotient and Remainder\obj\Debug\Q.6 Quotient and Remainder.pdb

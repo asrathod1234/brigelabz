@@ -1,0 +1,6 @@
+E:\Bridgelabz\all day\Day 5 Problem\Power Of 2\Power Of 2\bin\Debug\Power Of 2.exe.config
+E:\Bridgelabz\all day\Day 5 Problem\Power Of 2\Power Of 2\bin\Debug\Power Of 2.exe
+E:\Bridgelabz\all day\Day 5 Problem\Power Of 2\Power Of 2\bin\Debug\Power Of 2.pdb
+E:\Bridgelabz\all day\Day 5 Problem\Power Of 2\Power Of 2\obj\Debug\Power Of 2.csproj.CoreCompileInputs.cache
+E:\Bridgelabz\all day\Day 5 Problem\Power Of 2\Power Of 2\obj\Debug\Power Of 2.exe
+E:\Bridgelabz\all day\Day 5 Problem\Power Of 2\Power Of 2\obj\Debug\Power Of 2.pdb

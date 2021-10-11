@@ -1,0 +1,2 @@
+E:\Bridgelabz\all day\Day 6 NUnit Testing\Q.1 Vending machine\Q.1 Vending machine\obj\Debug\Q.1 Vending machine.csproj.AssemblyReference.cache
+E:\Bridgelabz\all day\Day 6 NUnit Testing\Q.1 Vending machine\Q.1 Vending machine\obj\Debug\Q.1 Vending machine.csproj.CoreCompileInputs.cache

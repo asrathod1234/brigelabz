@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q.4 Harmonic Number", "Q.4 Harmonic Number\Q.4 Harmonic Number.csproj", "{8A35C692-BC0F-4286-955B-CD66ABC49EE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A35C692-BC0F-4286-955B-CD66ABC49EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A35C692-BC0F-4286-955B-CD66ABC49EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A35C692-BC0F-4286-955B-CD66ABC49EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A35C692-BC0F-4286-955B-CD66ABC49EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7942E7A-40A0-435B-B0A7-8FFF3421F759}
+	EndGlobalSection
+EndGlobal

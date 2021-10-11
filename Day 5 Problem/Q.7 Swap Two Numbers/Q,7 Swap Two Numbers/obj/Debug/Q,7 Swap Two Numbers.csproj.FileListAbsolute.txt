@@ -1,0 +1,6 @@
+E:\Bridgelabz\all day\Day 5 Problem\Q,7 Swap Two Numbers\Q,7 Swap Two Numbers\bin\Debug\Q,7 Swap Two Numbers.exe.config
+E:\Bridgelabz\all day\Day 5 Problem\Q,7 Swap Two Numbers\Q,7 Swap Two Numbers\bin\Debug\Q,7 Swap Two Numbers.exe
+E:\Bridgelabz\all day\Day 5 Problem\Q,7 Swap Two Numbers\Q,7 Swap Two Numbers\bin\Debug\Q,7 Swap Two Numbers.pdb
+E:\Bridgelabz\all day\Day 5 Problem\Q,7 Swap Two Numbers\Q,7 Swap Two Numbers\obj\Debug\Q,7 Swap Two Numbers.csproj.CoreCompileInputs.cache
+E:\Bridgelabz\all day\Day 5 Problem\Q,7 Swap Two Numbers\Q,7 Swap Two Numbers\obj\Debug\Q,7 Swap Two Numbers.exe
+E:\Bridgelabz\all day\Day 5 Problem\Q,7 Swap Two Numbers\Q,7 Swap Two Numbers\obj\Debug\Q,7 Swap Two Numbers.pdb

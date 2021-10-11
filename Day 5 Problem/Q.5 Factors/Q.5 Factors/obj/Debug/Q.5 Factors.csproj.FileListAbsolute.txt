@@ -1,0 +1,6 @@
+E:\Bridgelabz\all day\Day 5 Problem\Q.5 Factors\Q.5 Factors\bin\Debug\Q.5 Factors.exe.config
+E:\Bridgelabz\all day\Day 5 Problem\Q.5 Factors\Q.5 Factors\bin\Debug\Q.5 Factors.exe
+E:\Bridgelabz\all day\Day 5 Problem\Q.5 Factors\Q.5 Factors\bin\Debug\Q.5 Factors.pdb
+E:\Bridgelabz\all day\Day 5 Problem\Q.5 Factors\Q.5 Factors\obj\Debug\Q.5 Factors.csproj.CoreCompileInputs.cache
+E:\Bridgelabz\all day\Day 5 Problem\Q.5 Factors\Q.5 Factors\obj\Debug\Q.5 Factors.exe
+E:\Bridgelabz\all day\Day 5 Problem\Q.5 Factors\Q.5 Factors\obj\Debug\Q.5 Factors.pdb
